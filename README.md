@@ -6,3 +6,6 @@ These reports represent the culmination of my work on 8 individual projects, wit
 
 ## Live Project Certificate
 ![Live Project Certificate](https://github.com/Yashrajput9232/Trainity-Data-Analyst/assets/111461950/dcd3b3b9-fed1-485a-a7fe-e47636d395f2)
+
+## Virtual Internship Certificate
+![Virtual Internship_page-0001](https://github.com/Yashrajput9232/Trainity-Data-Analyst/assets/111461950/3a37941f-34f8-4703-a45e-8f04a41faece)
